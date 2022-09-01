@@ -27,9 +27,6 @@ Working Papers
 
 [Robust security volatility estimation using intraday transaction data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vA9JfQIAAAAJ&sortby=pubdate&citation_for_view=vA9JfQIAAAAJ:9yKSN-GCB0IC). XIU Dacheng, DA Rui, US Patent App. 16/650,730</i>
 
-Hobbies
-------
-
 
 Hobbies
 ------
